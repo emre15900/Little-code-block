@@ -1,0 +1,15 @@
+button{
+    background-color: #7cc086;
+    border: 0;
+    width: 200px;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 3px;
+    font-size: 11px;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+}
+p{
+    max-width: 800px;
+}
